@@ -1,8 +1,8 @@
 <?php
     require './controlers.php';
 
-    $API_KEY = 'AIzaSyBSkGdTHKhUGf8lgrhtg-87RPCvrV77nkY';
-    $ACCESS_TOKEN = 'e5d882fbfe3eb52992ae10dda8b9cf5f7af27b78';
+    $API_KEY = '**********************';
+    $ACCESS_TOKEN = '***********************';
 
     use \Psr\Http\Message\ServerRequestInterface as Request;
     use \Psr\Http\Message\ResponseInterface as Response;
